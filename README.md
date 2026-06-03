@@ -13,7 +13,9 @@ to physical failure mechanisms.
 - Device 14 showed the highest degradation rate among all tested devices
 - Run 7 distribution collapse in Device 14 indicates
   intermittent thermal path disruption due to die-attach crack progression
-
+### Results
+## Total Rds_on trend 
+<img width="2229" height="1180" alt="Image" src="https://github.com/user-attachments/assets/21fd63db-bd29-49cf-a2aa-17ebd5e130a0" />
 ## Analysis Process
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
 2. Rds_on trend visualization per device
