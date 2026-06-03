@@ -16,9 +16,16 @@ to physical failure mechanisms.
 ## Results
 ### 1. Total Rds_on trend 
 <img width="2229" height="1180" alt="Image" src="https://github.com/user-attachments/assets/21fd63db-bd29-49cf-a2aa-17ebd5e130a0" />
+
 - Figure X shows Rds(on) Run and Figure average Rds(ON)value of each device at each cycle, illustrating the thermal degradation process.
 
-### 2.
+### 2. Rds_on increase rate
+<img width="1179" height="730" alt="Image" src="https://github.com/user-attachments/assets/ac370bcf-3f54-40bc-84e7-9d347f629b79" />
+
+- The lowest (Run 4) and highest values (Run 7) were captured
+- The percentage increase was calculated to compare the extent of thermal degradation among the devices.
+
+### 3. Rds_on increase rate
 
 ## Analysis Process
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
