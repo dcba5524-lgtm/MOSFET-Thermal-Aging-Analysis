@@ -30,8 +30,12 @@ to physical failure mechanisms.
 - The lowest (Run 4) and highest values (Run 7) were captured
 - The percentage increase was calculated to compare the extent of thermal degradation among the devices.
 
-### 4. Rds_on increase rate
+### 4. Rds_on from Device 12 Distribution
 
+### 5. Correlationship with Rds_on and PackageTemperature on Device 12
+<img width="786" height="487" alt="Image" src="https://github.com/user-attachments/assets/29cf9d62-e90d-4313-81cf-50e1407d9c48" />
+
+-
 ## Analysis Process
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
 2. Rds_on trend visualization per device
