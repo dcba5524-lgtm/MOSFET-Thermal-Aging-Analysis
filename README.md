@@ -31,6 +31,10 @@ to physical failure mechanisms.
 - The percentage increase was calculated to compare the extent of thermal degradation among the devices.
 
 ### 4. Rds_on from Device 12 Distribution
+<img width="1479" height="855" alt="Image" src="https://github.com/user-attachments/assets/b2b53515-844a-464a-83c7-a3f713196e15" />
+
+-
+-
 
 ### 5. Correlationship with Rds_on and PackageTemperature on Device 12
 <img width="786" height="487" alt="Image" src="https://github.com/user-attachments/assets/29cf9d62-e90d-4313-81cf-50e1407d9c48" />
