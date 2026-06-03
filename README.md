@@ -19,13 +19,18 @@ to physical failure mechanisms.
 
 - Figure X shows Rds(on) Run and Figure average Rds(ON)value of each device at each cycle, illustrating the thermal degradation process.
 
-### 2. Rds_on increase rate
+### 2. The highest Rds_on value 
+<img width="1479" height="880" alt="Image" src="https://github.com/user-attachments/assets/be94964b-d9de-4840-b388-1634ac7c252f" />
+
+- Device 12 shows the highest Rds(on) increase among all tested devices, indicating more severe thermal degradation
+
+### 3. Rds_on increase rate
 <img width="1179" height="730" alt="Image" src="https://github.com/user-attachments/assets/ac370bcf-3f54-40bc-84e7-9d347f629b79" />
 
 - The lowest (Run 4) and highest values (Run 7) were captured
 - The percentage increase was calculated to compare the extent of thermal degradation among the devices.
 
-### 3. Rds_on increase rate
+### 4. Rds_on increase rate
 
 ## Analysis Process
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
