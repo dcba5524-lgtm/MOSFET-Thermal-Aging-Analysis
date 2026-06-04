@@ -40,6 +40,13 @@ to physical failure mechanisms.
 <img width="786" height="487" alt="Image" src="https://github.com/user-attachments/assets/29cf9d62-e90d-4313-81cf-50e1407d9c48" />
 
 -
+
+### 6. Correlationship with Rds_on and PackageTemperature all devices
+<img width="1487" height="787" alt="Image" src="https://github.com/user-attachments/assets/93c31c61-c2b0-4ecf-acc3-df9b99cf8ba1" />
+
+-
+
+
 ## Analysis Process
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
 2. Rds_on trend visualization per device
