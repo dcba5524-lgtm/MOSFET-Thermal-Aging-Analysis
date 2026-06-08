@@ -51,7 +51,7 @@ to physical failure mechanisms.
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
 2. Rds_on trend visualization per device
 3. Quantification of degradation rate per device
-4. Deep dive analysis on Device 14 (boxplot + Rds_on vs Temperature overlay)
+4. Deep dive analysis on Device 12 (boxplot + Rds_on vs Temperature overlay)
 
 ## Tools
 Python, Pandas, Matplotlib
