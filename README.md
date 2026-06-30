@@ -11,7 +11,7 @@ to physical failure mechanisms.
 - All devices showed a common inflection point around Run 4,
   after which degradation accelerated
 - Device 12 showed the highest degradation rate among all tested devices
-- Run 7 distribution collapse in Device 14 indicates
+- Run 7 distribution collapse in Device 12 indicates
   intermittent thermal path disruption due to die-attach crack progression
 ## Results
 ### 1. Total Rds_on trend 
