@@ -38,7 +38,7 @@ to physical failure mechanisms.
 - For Device 12, Rds_on remains tightly distributed across runs 1 through 6, with narrow IQRs centered around 1.5–2Ω, indicating stable and repeatable on-state resistance.
 - In run 7, however, the distribution widens dramatically — the IQR expands to roughly 2–6Ω with a maximum exceeding 10Ω — while the median stays comparable to earlier runs.
 
-<img width="786" height="469" alt="Image" src="https://github.com/user-attachments/assets/4894bcb9-1434-4c6a-b298-7a7278636f48" />
+<img width="1479" height="500" alt="Image" src="https://github.com/user-attachments/assets/4894bcb9-1434-4c6a-b298-7a7278636f48" />
 
 ### 5. Correlation with Rds_on and PackageTemperature on Device 12
 <img width="786" height="487" alt="Image" src="https://github.com/user-attachments/assets/29cf9d62-e90d-4313-81cf-50e1407d9c48" />
