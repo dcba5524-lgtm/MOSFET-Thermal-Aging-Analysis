@@ -17,7 +17,7 @@ to physical failure mechanisms.
 ### 1. Total Rds_on trend 
 <img width="2229" height="1180" alt="Image" src="https://github.com/user-attachments/assets/21fd63db-bd29-49cf-a2aa-17ebd5e130a0" />
 
-- Figure X shows Rds(on) Run and Figure average Rds(ON)value of each device at each cycle, illustrating the thermal degradation process.
+- Y-axis shows Rds(on) Run and Figure average Rds(ON)value of each device at each cycle, illustrating the thermal degradation process.
 
 ### 2. The highest Rds_on value 
 <img width="1479" height="880" alt="Image" src="https://github.com/user-attachments/assets/be94964b-d9de-4840-b388-1634ac7c252f" />
@@ -35,7 +35,6 @@ to physical failure mechanisms.
 
 - For Device 12, Rds_on remains tightly distributed across runs 1 through 6, with narrow IQRs centered around 1.5–2Ω, indicating stable and repeatable on-state resistance.
 - In run 7, however, the distribution widens dramatically — the IQR expands to roughly 2–6Ω with a maximum exceeding 10Ω — while the median stays comparable to earlier runs.
-- consistent with intermittent gate oxide breakdown preceding end-of-life failure.
 
 ### 5. Correlationship with Rds_on and PackageTemperature on Device 12
 <img width="786" height="487" alt="Image" src="https://github.com/user-attachments/assets/29cf9d62-e90d-4313-81cf-50e1407d9c48" />
