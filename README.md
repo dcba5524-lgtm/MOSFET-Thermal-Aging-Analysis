@@ -54,7 +54,7 @@ to physical failure mechanisms.
 
 ## Analysis Process
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
-2. Rds_on trend visualization per device
+2. Rds_on trend visualization per device $R_{ds(on)} = \frac{V_{ds}}{I_d}$
 3. Quantification of degradation rate per device
 4. Deep dive analysis on Device 12 (boxplot + Rds_on vs Temperature overlay)
 
