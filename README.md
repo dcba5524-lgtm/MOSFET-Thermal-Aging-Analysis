@@ -29,6 +29,7 @@ to physical failure mechanisms.
 
 - The lowest (Run 4) and highest values (Run 7) were captured
 - The percentage increase was calculated to compare the extent of thermal degradation among the devices.
+  
 <img width="319" height="140" alt="Image" src="https://github.com/user-attachments/assets/29144e66-38bf-4bec-ade2-69febf2cb83c" />
 
 ### 4. Rds_on from Device 12 Distribution
