@@ -47,7 +47,8 @@ to physical failure mechanisms.
 ### 6. Correlationship with Rds_on and PackageTemperature all devices
 <img width="1487" height="787" alt="Image" src="https://github.com/user-attachments/assets/93c31c61-c2b0-4ecf-acc3-df9b99cf8ba1" />
 
--
+- From run 1 to run 4, Rds_on and case temperature drop together, which looks like correlation but is likely coincidental — both values happen to follow the early test ramp-down.
+- it simply does not capture the real thermal stress driving the degradation at the junction.
 
 
 ## Analysis Process
