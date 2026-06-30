@@ -62,4 +62,7 @@ Python, Pandas, Matplotlib
 
 ## Data Source
 NASA Prognostics Data Repository  
-https://www.ti.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
+13. Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET) Thermal Overstress Aging
+Data Set Citation: J. R. Celaya, A. Saxena, S. Saha, and K. Goebel “MOSFET Thermal Overstress Aging Data Set”, NASA Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA
+Publication Citation: J. R. Celaya, A. Saxena, S. Saha, and K. Goebel, “Prognostics of Power MOSFETs under Thermal Stress Accelerated Aging using Data-Driven and Model-Based Methodologies,” in the Proceedings of the Annual Conference of the Prognostics and Health Management Society, (Montreal QC, Canada), September 2011.
