@@ -36,14 +36,14 @@ to physical failure mechanisms.
 - For Device 12, Rds_on remains tightly distributed across runs 1 through 6, with narrow IQRs centered around 1.5–2Ω, indicating stable and repeatable on-state resistance.
 - In run 7, however, the distribution widens dramatically — the IQR expands to roughly 2–6Ω with a maximum exceeding 10Ω — while the median stays comparable to earlier runs.
 
-### 5. Correlationship with Rds_on and PackageTemperature on Device 12
+### 5. Correlation with Rds_on and PackageTemperature on Device 12
 <img width="786" height="487" alt="Image" src="https://github.com/user-attachments/assets/29cf9d62-e90d-4313-81cf-50e1407d9c48" />
 
 - The test setup has no heatsink, so heat builds up inside the device instead of escaping.
 - This means the case temperature measured is likely much lower than the real temperature inside the chip.
 - This setup looks like an intentional worst-case test, designed to stress the device as much as possible and cause failure faster, rather than represent how the device would   normally operate in the field.
 
-### 6. Correlationship with Rds_on and PackageTemperature all devices
+### 6. Correlation with Rds_on and PackageTemperature all devices
 <img width="1487" height="787" alt="Image" src="https://github.com/user-attachments/assets/93c31c61-c2b0-4ecf-acc3-df9b99cf8ba1" />
 
 - From run 1 to run 4, Rds_on and case temperature drop together, which looks like correlation but is likely coincidental — both values happen to follow the early test ramp-down.
