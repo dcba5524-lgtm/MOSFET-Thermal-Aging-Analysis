@@ -7,14 +7,14 @@ The goal is to identify Rds_on degradation trends and connect them
 to physical failure mechanisms.
 
 ## Key Findings
-- OFF state noise filtering was required for accurate Rds_on calculation
+- OFF state noise filtering was required for accurate Rds_on calculation $R_{ds(on)} = \frac{V_{ds}}{I_d}$
 - All devices showed a common inflection point around Run 4,
   after which degradation accelerated
 - Device 12 showed the highest degradation rate among all tested devices
 - Run 7 distribution collapse in Device 12 indicates
   intermittent thermal path disruption due to die-attach crack progression
 ## Results
-### 1. Total Rds_on trend $R_{ds(on)} = \frac{V_{ds}}{I_d}$
+### 1. Total Rds_on trend
 <img width="2229" height="1180" alt="Image" src="https://github.com/user-attachments/assets/21fd63db-bd29-49cf-a2aa-17ebd5e130a0" />
 
 - Y-axis shows Rds(on) Run and Figure average Rds(ON)value of each device at each cycle, illustrating the thermal degradation process.
