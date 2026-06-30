@@ -10,7 +10,7 @@ to physical failure mechanisms.
 - OFF state noise filtering was required for accurate Rds_on calculation
 - All devices showed a common inflection point around Run 4,
   after which degradation accelerated
-- Device 14 showed the highest degradation rate among all tested devices
+- Device 12 showed the highest degradation rate among all tested devices
 - Run 7 distribution collapse in Device 14 indicates
   intermittent thermal path disruption due to die-attach crack progression
 ## Results
