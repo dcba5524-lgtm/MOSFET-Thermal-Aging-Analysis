@@ -45,7 +45,7 @@ to physical failure mechanisms.
 -
 -
 
-<img width="1479" height="934" alt="Image" src="https://github.com/user-attachments/assets/4894bcb9-1434-4c6a-b298-7a7278636f48" />
+<img width="1479" height="1300" alt="Image" src="https://github.com/user-attachments/assets/4894bcb9-1434-4c6a-b298-7a7278636f48" />
 
 -
 -
