@@ -63,6 +63,8 @@ to physical failure mechanisms.
 - From run 1 to run 4, Rds_on and case temperature drop together, which looks like correlation but is likely coincidental — both values happen to follow the early test ramp-down.
 - it simply does not capture the real thermal stress driving the degradation at the junction.
 
+## Conclusion
+
 
 ## Analysis Process
 1. Data preprocessing - ON state filtering (supplyVoltage ≥ 3.5V, drainCurrent ≥ 0.5A)
