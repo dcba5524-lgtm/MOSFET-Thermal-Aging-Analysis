@@ -17,8 +17,8 @@ to physical failure mechanisms.
 ### 1. Total Rds_on trend
 <img width="2229" height="1180" alt="Image" src="https://github.com/user-attachments/assets/21fd63db-bd29-49cf-a2aa-17ebd5e130a0" />
 
-- Y-axis shows Rds(on) Run and Figure average Rds(ON)value of each device at each cycle, illustrating the thermal degradation process.
-
+- Each line represents the average Rds(on) per run for a single device, showing how on-state resistance evolves across thermal stress cycles.
+  
 ### 2. The highest Rds_on value 
 <img width="1479" height="880" alt="Image" src="https://github.com/user-attachments/assets/be94964b-d9de-4840-b388-1634ac7c252f" />
 
@@ -44,7 +44,7 @@ to physical failure mechanisms.
 
 - A quantitative summary table confirms the graph findings: maximum Rds(on) increases exceed 10Ω while median values shift about 2Ω — showing degradation concentrates in the      worst-performing devices rather than spreading evenly.
 
--Although package temperature and maximum Rds(on) appear to correlate, the graph below shows this relationship is not straightforward — thermal stress alone does not fully       explain the resistance increase.
+- Although package temperature and maximum Rds(on) appear to correlate, the graph below shows this relationship is not straightforward — thermal stress alone does not fully       explain the resistance increase.
 
 <img width="1479" height="1300" alt="Image" src="https://github.com/user-attachments/assets/4894bcb9-1434-4c6a-b298-7a7278636f48" />
 
@@ -65,6 +65,23 @@ to physical failure mechanisms.
 - it simply does not capture the real thermal stress driving the degradation at the junction.
 
 ## Conclusion
+
+This analysis validates Rds(on) as a reliable and independent 
+degradation indicator in power MOSFETs under thermal stress, 
+establishing the foundation for prognostic health monitoring.
+
+**Quantitative evidence** demonstrates that maximum Rds(on) 
+increases exceed 10Ω while median shifts remain approximately 2Ω 
+— confirming that degradation concentrates in the high-resistance 
+tail of the device population rather than spreading uniformly.
+
+**Critical finding:** Package temperature does not rise 
+proportionally with Rds(on), revealing that junction-level 
+thermal stress accumulation — manifesting as die-attach fatigue 
+and contact resistance changes — drives degradation independent 
+of measured case temperature. This decoupling is significant: 
+case temperature alone is insufficient to characterize device 
+health under accelerated thermal aging.
 
 
 ## Analysis Process
