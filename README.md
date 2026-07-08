@@ -42,13 +42,14 @@ to physical failure mechanisms.
 
 <img width="815" height="417" alt="Image" src="https://github.com/user-attachments/assets/a8815b8f-e785-45fa-8982-201224c1fb43" />
 
--
--
+- A quantitative summary table confirms the graph findings: maximum Rds(on) increases exceed 10Ω while median values shift about 2Ω — showing degradation concentrates in the      worst-performing devices rather than spreading evenly.
+
+-Although package temperature and maximum Rds(on) appear to correlate, the graph below shows this relationship is not straightforward — thermal stress alone does not fully       explain the resistance increase.
 
 <img width="1479" height="1300" alt="Image" src="https://github.com/user-attachments/assets/4894bcb9-1434-4c6a-b298-7a7278636f48" />
 
--
--
+- The graph clearly shows that parameter values change more dramatically as thermal cycles increase.
+- In contrast to the quantitative data in the table, the graph reveals that package temperature does not rise in parallel with resistance — indicating that temperature alone      does not drive the observed Rds(on) degradation.
 
 ### 5. Correlation with Rds_on and PackageTemperature on Device 12
 <img width="786" height="487" alt="Image" src="https://github.com/user-attachments/assets/29cf9d62-e90d-4313-81cf-50e1407d9c48" />
